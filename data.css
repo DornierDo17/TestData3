@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    margin-bottom: 1cm;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: black;
+    color: white;
+}
+
+.xml {
+    color: blue;
+    text-decoration: none;
+}
+.xml:hover {
+    color: lightcoral;
+}

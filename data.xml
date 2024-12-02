@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software>
+    <systemSoftware version="10.0">
+        <name>Windows</name>
+        <type>Operating System</type>
+        <developer>Microsoft</developer>
+        <releaseDate>1985</releaseDate>
+    </systemSoftware>
+    
+    <applicationSoftware version="2021">
+        <name>Microsoft Word</name>
+        <type>Word Processor</type>
+        <developer>Microsoft</developer>
+        <releaseDate>1983</releaseDate>
+    </applicationSoftware>
+    
+    <developmentSoftware version="16.9">
+        <name>Visual Studio</name>
+        <type>IDE (Integrated Development Environment)</type>
+        <developer>Microsoft</developer>
+        <releaseDate>1997</releaseDate>
+    </developmentSoftware>
+</software>

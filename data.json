@@ -1,0 +1,21 @@
+{
+    "systemSoftware": {
+      "name": "Windows",
+      "type": "Operating System",
+      "developer": "Microsoft",
+      "releaseDate": 1985
+    },
+    "applicationSoftware": {
+      "name": "Microsoft Word",
+      "type": "Word Processor",
+      "developer": "Microsoft",
+      "isFree": false
+    },
+    "developmentSoftware": {
+      "name": "Visual Studio",
+      "type": "IDE (Integrated Development Environment)",
+      "developer": "Microsoft",
+      "version": "16.9"
+    }
+  }
+  
